@@ -25,3 +25,5 @@ Powerball Lottery
 
 ![Diagram1.4Penarroyo](https://i.imgur.com/sEzBJ69.png)
 
+
+Credits: Etheruem Book " Building Games with Ethereum Smart Contracts " 
